@@ -14,5 +14,6 @@ public class Test {
         System.out.println("master-xxx");
         System.out.println("hot-fix");
         System.out.println("hot-fix1");
+        System.out.println("hot-fix2");
     }
 }
