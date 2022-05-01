@@ -12,5 +12,6 @@ public class Test {
 
         System.out.println("xxx");
         System.out.println("master-xxx");
+        System.out.println("hot-fix");
     }
 }
